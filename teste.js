@@ -16,3 +16,5 @@ function medalhaDeAcordoComPosicao(posicao) {
 console.log(
   `Parabéns, você ganhou a medalha de ${medalhaDeAcordoComPosicao(4)}`
 );
+
+console.log()
